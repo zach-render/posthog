@@ -21,8 +21,6 @@ Use the button below to deploy PostHog on Render.
 
 ### Manual
 
-See the guide at https://render.com/docs/deploy-posthog.
-
 If you need help, talk with us at https://community.render.com/.
 
 [PostHog]: https://posthog.com/
